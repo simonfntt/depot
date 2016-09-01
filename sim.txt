@@ -1,0 +1,4 @@
+depot
+myfunction(){
+	on test des choses;
+}
